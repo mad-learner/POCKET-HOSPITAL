@@ -1,2 +1,2 @@
-# POCKET-HOSPTAL
+# POCKET-HOSPITAL
 blockchain based dapp for healthcare 
